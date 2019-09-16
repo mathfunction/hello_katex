@@ -1,5 +1,11 @@
 # Javascript + Katex = latex on browser 範例 !!
 
+### 如何跑範例 : 
+
+​	解壓縮 / git clone 後，用瀏覽器打開 hello_katex.html 會出現效果 !! 
+
+​	範例實作可參考 hello_katex.html , katex_formulas.js ，可有按鈕互動顯示功能 !!
+
 ### Katex 使用方法概述:
 
 1. 把整個 katex 資料夾複製到你要的目錄， [YourPath] = 資料夾絕對路徑    
@@ -34,11 +40,7 @@
    // 需要跳脫字元，所以 latex某些語法如: 非單斜線 \sum 需要雙斜線 \\sum 
    ```
 
-### 範例碼: 
 
-​	解壓縮後，用瀏覽器打開 hello_katex.html 會出現效果 !! 
-
-​	範例實作可參考 hello_katex.html , katex_formulas.js ，可有按鈕互動顯示功能 !!
 
 ### 與 MathJax 比較:  
 
